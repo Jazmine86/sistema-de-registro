@@ -6,4 +6,7 @@
 </h4>
 ```npm install react````
 
-
+Sistema de Registro 2
+<h4 align="center">
+:construction: Proyecto en construcción 2 :construction:
+</h4>
